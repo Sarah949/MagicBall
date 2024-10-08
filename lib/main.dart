@@ -36,7 +36,7 @@ class _MagicBallState extends State<MagicBall> {
             child: IconButton(
                 onPressed: () {
                   setState(() {
-                    ballNumber = Random().nextInt(4) + 1;
+                    ballNumber = Random().nextInt(5) + 1;
                   });
                 },
                 icon: Image.asset('images/ball$ballNumber.png')),

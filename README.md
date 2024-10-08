@@ -1,16 +1,15 @@
-# magic_ball
+# magic_ball🎱
 
-A new Flutter project.
+## Overview
+The Magic 8 Ball app is a simple, fun project built using Flutter to help solidify your understanding of Stateless and Stateful widgets. By pressing the ball, you get a random answer to any question you ask—just like a real Magic 8 Ball!
 
-## Getting Started
+## Demo Video
+![Demo of Dicee App](gif/demo.gif)
 
-This project is a starting point for a Flutter application.
+## Our Goal
+This project is an extension of the concepts you learned in the Dicee tutorial. The main goal is to reinforce your knowledge of widget states and interaction handling in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Press the Magic 8 Ball to get a random answer to your question.
+- Dynamic image change using StatefulWidget to randomly display one of 5 ball images.
+- Clean, simple UI with responsive interaction.
