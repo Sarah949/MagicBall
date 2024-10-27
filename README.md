@@ -13,3 +13,7 @@ This project is an extension of the concepts you learned in the Dicee tutorial. 
 - Press the Magic 8 Ball to get a random answer to your question.
 - Dynamic image change using StatefulWidget to randomly display one of 5 ball images.
 - Clean, simple UI with responsive interaction.
+
+  ## 📚 Resources
+- **Flutter Documentation**: [flutter.dev](https://flutter.dev)
+- **Course Reference**: *The Complete Flutter Development Bootcamp with Dart* by Angela Yu  
