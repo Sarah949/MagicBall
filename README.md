@@ -14,6 +14,7 @@ This project is an extension of the concepts you learned in the Dicee tutorial. 
 - Dynamic image change using StatefulWidget to randomly display one of 5 ball images.
 - Clean, simple UI with responsive interaction.
 
-  ## 📚 Resources
+## 📚 Resources
 - **Flutter Documentation**: [flutter.dev](https://flutter.dev)
+- **Dart Language**: [dart.dev](https://dart.dev)
 - **Course Reference**: *The Complete Flutter Development Bootcamp with Dart* by Angela Yu  
